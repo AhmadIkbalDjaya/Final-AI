@@ -32,19 +32,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-1" value="" id="" required> mencari toko itu berdasarkan tempat lain di sekitar situ yang sudah saya tahu. </td>
+                            <td>A. <input type="radio" name="pil-soal-1" value="K" id="" required> mencari toko itu berdasarkan tempat lain di sekitar situ yang sudah saya tahu. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-1" value="" id="" required> bertanya pada teman yang tahu arah toko itu. </td>
+                            <td>B. <input type="radio" name="pil-soal-1" value="A" id="" required> bertanya pada teman yang tahu arah toko itu. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-1" value="" id="" required> menuliskan alamat lengkap dan daftar belokan yang harus saya ingat. </td>
+                            <td>C. <input type="radio" name="pil-soal-1" value="R" id="" required> menuliskan alamat lengkap dan daftar belokan yang harus saya ingat. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-1" value="" id="" required> menggunakan peta yang menunjukkan lokasi toko itu </td>
+                            <td>D. <input type="radio" name="pil-soal-1" value="V" id="" required> menggunakan peta yang menunjukkan lokasi toko itu </td>
                         </tr>
                     </span>
                     <span class="no-2">
@@ -56,19 +56,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-2" value="" id="" required> mengamati diagram petunjuknya.</td>
+                            <td>A. <input type="radio" name="pil-soal-2" value="V" id="" required> mengamati diagram petunjuknya.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-2" value="" id="" required> mendengar suara yang menjelaskan.</td>
+                            <td>B. <input type="radio" name="pil-soal-2" value="A" id="" required> mendengar suara yang menjelaskan.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-2" value="" id="" required> membaca instruksi yang tertulis.</td>
+                            <td>C. <input type="radio" name="pil-soal-2" value="R" id="" required> membaca instruksi yang tertulis.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-2" value="" id="" required> melihat tindakan orangnya.</td>
+                            <td>D. <input type="radio" name="pil-soal-2" value="K" id="" required> melihat tindakan orangnya.</td>
                         </tr>
                     </span>
                     <span class="no-3">
@@ -80,19 +80,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-3" value="" id="" required>  melihat detail kegiatan dan aktivitas yang akan dilakukan.</td>
+                            <td>A. <input type="radio" name="pil-soal-3" value="K" id="" required>  melihat detail kegiatan dan aktivitas yang akan dilakukan.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-3" value="" id="" required> melihat petanya dan mengamati lokasi-lokasi turnya.</td>
+                            <td>B. <input type="radio" name="pil-soal-3" value="V" id="" required> melihat petanya dan mengamati lokasi-lokasi turnya.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-3" value="" id="" required> membaca perincian jadwal kegiatan tur tersebut.</td>
+                            <td>C. <input type="radio" name="pil-soal-3" value="R" id="" required> membaca perincian jadwal kegiatan tur tersebut.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-3" value="" id="" required> bicara dengan pengelola atau peserta lain di tur itu.</td>
+                            <td>D. <input type="radio" name="pil-soal-3" value="A" id="" required> bicara dengan pengelola atau peserta lain di tur itu.</td>
                         </tr>
                     </span>
                     <span class="no-4">
@@ -104,19 +104,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-4" value="" id="" required> aplikasi ilmu pada kondisi nyata yang dihadapi.</td>
+                            <td>A. <input type="radio" name="pil-soal-4" value="K" id="" required> aplikasi ilmu pada kondisi nyata yang dihadapi.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-4" value="" id="" required>  berkomunikasi dengan orang dengan berdiskusi.</td>
+                            <td>B. <input type="radio" name="pil-soal-4" value="A" id="" required>  berkomunikasi dengan orang dengan berdiskusi.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-4" value="" id="" required>  pekerjaan yang memakai desain, peta, atau bagan.</td>
+                            <td>C. <input type="radio" name="pil-soal-4" value="V" id="" required>  pekerjaan yang memakai desain, peta, atau bagan.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-4" value="" id="" required> penggunaan kata yang tepat dalam komunikasi tertulis.</td>
+                            <td>D. <input type="radio" name="pil-soal-4" value="R" id="" required> penggunaan kata yang tepat dalam komunikasi tertulis.</td>
                         </tr>
                     </span>
                     <span class="no-5">
@@ -126,19 +126,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-5" value="" id="" required> belajar dengan berdiskusi.</td>
+                            <td>A. <input type="radio" name="pil-soal-5" value="A" id="" required> belajar dengan berdiskusi.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-5" value="" id="" required> mencari pola tertentu.</td>
+                            <td>B. <input type="radio" name="pil-soal-5" value="V" id="" required> mencari pola tertentu.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-5" value="" id="" required> menggunakan contoh dan penerapan.</td>
+                            <td>C. <input type="radio" name="pil-soal-5" value="K" id="" required> menggunakan contoh dan penerapan.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-5" value="" id="" required> membaca buku, artikel dan diktat.</td>
+                            <td>D. <input type="radio" name="pil-soal-5" value="R" id="" required> membaca buku, artikel dan diktat.</td>
                         </tr>
                     </span>
                     <span class="no-6">
@@ -150,19 +150,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-6" value="" id="" required> mempertimbangkan contohdari setiap cara penghematan berdasarkan kondisi keuangan saya.</td>
+                            <td>A. <input type="radio" name="pil-soal-6" value="K" id="" required> mempertimbangkan contohdari setiap cara penghematan berdasarkan kondisi keuangan saya.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-6" value="" id="" required> membaca brosur tertulis yang menjelaskan cara-cara berhemat secara detail. </td>
+                            <td>B. <input type="radio" name="pil-soal-6" value="R" id="" required> membaca brosur tertulis yang menjelaskan cara-cara berhemat secara detail. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-6" value="" id="" required> memakai grafik yang menunjukkan variasi pilihan dan jangka waktu yang dibutuhkan. </td>
+                            <td>C. <input type="radio" name="pil-soal-6" value="V" id="" required> memakai grafik yang menunjukkan variasi pilihan dan jangka waktu yang dibutuhkan. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-6" value="" id="" required> bicara dengan ahli keuangan mengenai cara-cara berhemat yang bisa ditempuh. </td>
+                            <td>D. <input type="radio" name="pil-soal-6" value="A" id="" required> bicara dengan ahli keuangan mengenai cara-cara berhemat yang bisa ditempuh. </td>
                         </tr>
                     </span>
                     <span class="no-7">
@@ -174,19 +174,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-7" value="" id="" required> melihat orang lain bermain sebelum saya ikut mencoba. </td>
+                            <td>A. <input type="radio" name="pil-soal-7" value="K" id="" required> melihat orang lain bermain sebelum saya ikut mencoba. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-7" value="" id="" required> mendengar penjelasan orang serta bertanya padanya. </td>
+                            <td>B. <input type="radio" name="pil-soal-7" value="A" id="" required> mendengar penjelasan orang serta bertanya padanya. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-7" value="" id="" required> memakai diagram yang menjelaskan tahap, langkah dan strategi permainannya. </td>
+                            <td>C. <input type="radio" name="pil-soal-7" value="V" id="" required> memakai diagram yang menjelaskan tahap, langkah dan strategi permainannya. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-7" value="" id="" required>  membaca petunjuk tertulis pada permainan itu.</td>
+                            <td>D. <input type="radio" name="pil-soal-7" value="R" id="" required>  membaca petunjuk tertulis pada permainan itu.</td>
                         </tr>
                     </span>
                     <span class="no-8">
@@ -198,19 +198,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-8" value="" id="" required>  memberikan bacaan mengenai masalah yang saya hadapi. </td>
+                            <td>A. <input type="radio" name="pil-soal-8" value="R" id="" required>  memberikan bacaan mengenai masalah yang saya hadapi. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-8" value="" id="" required>  memakai alat peraga jantung untuk menunjukkan masalah yang saya hadapi.</td>
+                            <td>B. <input type="radio" name="pil-soal-8" value="K" id="" required>  memakai alat peraga jantung untuk menunjukkan masalah yang saya hadapi.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-8" value="" id="" required>  menguraikan masalah yang saya hadapi.</td>
+                            <td>C. <input type="radio" name="pil-soal-8" value="A" id="" required>  menguraikan masalah yang saya hadapi.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-8" value="" id="" required> menunjukkan diagram mengenai masalah yang saya hadapi. </td>
+                            <td>D. <input type="radio" name="pil-soal-8" value="V" id="" required> menunjukkan diagram mengenai masalah yang saya hadapi. </td>
                         </tr>
                     </span>
                     <span class="no-9">
@@ -222,19 +222,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-9" value="" id="" required> membaca intruksi tertulis pada petunjuknya </td>
+                            <td>A. <input type="radio" name="pil-soal-9" value="R" id="" required> membaca intruksi tertulis pada petunjuknya </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-9" value="" id="" required> bicara dengan orang yang paham tentang program itu.</td>
+                            <td>B. <input type="radio" name="pil-soal-9" value="A" id="" required> bicara dengan orang yang paham tentang program itu.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-9" value="" id="" required> langsung mencoba dan belajar dari kesalahan. </td>
+                            <td>C. <input type="radio" name="pil-soal-9" value="K" id="" required> langsung mencoba dan belajar dari kesalahan. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-9" value="" id="" required> mengikuti diagram pada buku petunjuknya.</td>
+                            <td>D. <input type="radio" name="pil-soal-9" value="V" id="" required> mengikuti diagram pada buku petunjuknya.</td>
                         </tr>
                     </span>
                     <span class="no-10">
@@ -246,19 +246,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-10" value="" id="" required> video cara melakukan atau membuat sesuatu. </td>
+                            <td>A. <input type="radio" name="pil-soal-10" value="K" id="" required> video cara melakukan atau membuat sesuatu. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-10" value="" id="" required> desain dan fitur visual yang menarik. </td>
+                            <td>B. <input type="radio" name="pil-soal-10" value="V" id="" required> desain dan fitur visual yang menarik. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-10" value="" id="" required> uraian tertulis, daftar dan penjelasan yang menarik. </td>
+                            <td>C. <input type="radio" name="pil-soal-10" value="R" id="" required> uraian tertulis, daftar dan penjelasan yang menarik. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-10" value="" id="" required> situs dengan suara, siaran internet atau wawancara. </td>
+                            <td>D. <input type="radio" name="pil-soal-10" value="A" id="" required> situs dengan suara, siaran internet atau wawancara. </td>
                         </tr>
                     </span>
                     <span class="no-11">
@@ -270,19 +270,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-11" value="" id="" required>  diagram yang berisi tahap-tahap proyek itu lengkap dengan bagan berisi manfaat dan biayanya. </td>
+                            <td>A. <input type="radio" name="pil-soal-11" value="V" id="" required>  diagram yang berisi tahap-tahap proyek itu lengkap dengan bagan berisi manfaat dan biayanya. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-11" value="" id="" required>  laporan tertulis yang menjelaskan bagian utama proyek tersebut. </td>
+                            <td>B. <input type="radio" name="pil-soal-11" value="R" id="" required>  laporan tertulis yang menjelaskan bagian utama proyek tersebut. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-11" value="" id="" required> kesempatan berdiskusi mengenai proyek tersebut.</td>
+                            <td>C. <input type="radio" name="pil-soal-11" value="A" id="" required> kesempatan berdiskusi mengenai proyek tersebut.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-11" value="" id="" required>  contoh-contoh proyek serupa yang sudah berhasil.</td>
+                            <td>D. <input type="radio" name="pil-soal-11" value="K" id="" required>  contoh-contoh proyek serupa yang sudah berhasil.</td>
                         </tr>
                     </span>
                     <span class="no-12">
@@ -294,19 +294,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-12" value="" id="" required> bertanya dan berdiskusi mengenai kamera dan fiturnya. </td>
+                            <td>A. <input type="radio" name="pil-soal-12" value="A" id="" required> bertanya dan berdiskusi mengenai kamera dan fiturnya. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-12" value="" id="" required> membaca instruksi tertulis mengenai cara pemakaian kamera itu</td>
+                            <td>B. <input type="radio" name="pil-soal-12" value="R" id="" required> membaca instruksi tertulis mengenai cara pemakaian kamera itu</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-12" value="" id="" required> melihat diagram yang menunjukkan komponen kamera itu. </td>
+                            <td>C. <input type="radio" name="pil-soal-12" value="V" id="" required> melihat diagram yang menunjukkan komponen kamera itu. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-12" value="" id="" required> melihat contoh hasil yang baik dan yang jelek dari kamera itu. </td>
+                            <td>D. <input type="radio" name="pil-soal-12" value="K" id="" required> melihat contoh hasil yang baik dan yang jelek dari kamera itu. </td>
                         </tr>
                     </span>
                     <span class="no-13">
@@ -318,19 +318,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-13" value="" id="" required>  peragaan, model peraga, atau kesempatan mencoba langsung. </td>
+                            <td>A. <input type="radio" name="pil-soal-13" value="K" id="" required>  peragaan, model peraga, atau kesempatan mencoba langsung. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-13" value="" id="" required> kesempatan tanya jawab, diskusi kelompok atau pembicara tamu. </td>
+                            <td>B. <input type="radio" name="pil-soal-13" value="A" id="" required> kesempatan tanya jawab, diskusi kelompok atau pembicara tamu. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-13" value="" id="" required>  cetakan diktat, buku atau bacaan lain. </td>
+                            <td>C. <input type="radio" name="pil-soal-13" value="R" id="" required>  cetakan diktat, buku atau bacaan lain. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-13" value="" id="" required> diagram, bagan, peta atau grafik. </td>
+                            <td>D. <input type="radio" name="pil-soal-13" value="V" id="" required> diagram, bagan, peta atau grafik. </td>
                         </tr>
                     </span>
                     <span class="no-14">
@@ -342,19 +342,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-14" value="" id="" required> umpan balik yang berisi contoh-contoh dari yang saya kerjakan.</td>
+                            <td>A. <input type="radio" name="pil-soal-14" value="K" id="" required> umpan balik yang berisi contoh-contoh dari yang saya kerjakan.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-14" value="" id="" required> umpan balik berupa penjelasan tertulis mengenai hasil pekerjaan saya. </td>
+                            <td>B. <input type="radio" name="pil-soal-14" value="R" id="" required> umpan balik berupa penjelasan tertulis mengenai hasil pekerjaan saya. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-14" value="" id="" required> umpan balik yang disampaikan langsung kepada saya.</td>
+                            <td>C. <input type="radio" name="pil-soal-14" value="A" id="" required> umpan balik yang disampaikan langsung kepada saya.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-14" value="" id="" required> umpan balik dalam bentuk grafik mengenai hasil pekerjaan saya.</td>
+                            <td>D. <input type="radio" name="pil-soal-14" value="V" id="" required> umpan balik dalam bentuk grafik mengenai hasil pekerjaan saya.</td>
                         </tr>
                     </span>
                     <span class="no-15">
@@ -366,19 +366,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-15" value="" id="" required> melihat video rumah atau apartemen itu.</td>
+                            <td>A. <input type="radio" name="pil-soal-15" value="K" id="" required> melihat video rumah atau apartemen itu.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-15" value="" id="" required> berdiskusi dengan pemiliknya.</td>
+                            <td>B. <input type="radio" name="pil-soal-15" value="A" id="" required> berdiskusi dengan pemiliknya.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-15" value="" id="" required> keterangan tertulis mengenai kamar-kamar dan fiturnya. </td>
+                            <td>C. <input type="radio" name="pil-soal-15" value="R" id="" required> keterangan tertulis mengenai kamar-kamar dan fiturnya. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-15" value="" id="" required> denah ruangan dan peta area sekitarnya. </td>
+                            <td>D. <input type="radio" name="pil-soal-15" value="V" id="" required> denah ruangan dan peta area sekitarnya. </td>
                         </tr>
                     </span>
                     <span class="no-16">
@@ -390,19 +390,19 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td>A. <input type="radio" name="pil-soal-16" value="" id="" required> mengikuti diagram instruksi yang dilampirkan. </td>
+                            <td>A. <input type="radio" name="pil-soal-16" value="V" id="" required> mengikuti diagram instruksi yang dilampirkan. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>B. <input type="radio" name="pil-soal-16" value="" id="" required> mendengar saran dari orang yang pernah merakitnya. </td>
+                            <td>B. <input type="radio" name="pil-soal-16" value="A" id="" required> mendengar saran dari orang yang pernah merakitnya. </td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>C. <input type="radio" name="pil-soal-16" value="" id="" required> membaca penjelasan tertulis yang dilampirkan.</td>
+                            <td>C. <input type="radio" name="pil-soal-16" value="R" id="" required> membaca penjelasan tertulis yang dilampirkan.</td>
                         </tr>
                         <tr>
                             <td></td>
-                            <td>D. <input type="radio" name="pil-soal-16" value="" id="" required>  menonton video orang merakit meja yang serupa. </td>
+                            <td>D. <input type="radio" name="pil-soal-16" value="K" id="" required>  menonton video orang merakit meja yang serupa. </td>
                         </tr>
                     </span>
                     <span class="tombol submit">
