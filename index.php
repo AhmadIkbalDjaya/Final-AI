@@ -1,16 +1,3 @@
-<?php
-    $v=0;
-    if(isset($_POST['submit'])){
-        if($_POST['pil-soal-1']=='nice'){
-            $v = $v + 6.25;
-        }
-        if($_POST['pil-soal-2']=='nice'){
-            $v = $v + 6.25;
-        }
-        echo "$v%";
-    }
-
-?>
 <!doctype html>
 <html lang="en">
     <head>
@@ -21,7 +8,7 @@
     </head>
     <body>
         <div class="container">
-            <form action="" method="post">
+            <form action="hasil.php" method="post">
                 <table>
                     <span class="no-1">
                         <tr>
