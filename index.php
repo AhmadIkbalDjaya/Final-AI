@@ -8,6 +8,9 @@
     </head>
     <body>
         <div class="container">
+            <h1>Sistem Pakar Untuk Mengetahui Gaya Belajar</h1>
+            <h2>Bagaimana cara belajar yang terbaik bagi saya?</h2>
+            <p>Pilih Jawaban di bawah ini untuk mengetahui gaya belajar anda:</p>
             <form action="hasil.php" method="post">
                 <table>
                     <span class="no-1">
@@ -33,6 +36,9 @@
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-1" value="V" id="" required> menggunakan peta yang menunjukkan lokasi toko itu </td>
                         </tr>
+                        <tr>
+                            <td><br></td>
+                        </tr>
                     </span>
                     <span class="no-2">
                         <tr>
@@ -56,6 +62,9 @@
                         <tr>
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-2" value="K" id="" required> melihat tindakan orangnya.</td>
+                        </tr>
+                        <tr>
+                            <td><br></td>
                         </tr>
                     </span>
                     <span class="no-3">
@@ -81,6 +90,9 @@
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-3" value="A" id="" required> bicara dengan pengelola atau peserta lain di tur itu.</td>
                         </tr>
+                        <tr>
+                            <td><br></td>
+                        </tr>
                     </span>
                     <span class="no-4">
                         <tr>
@@ -105,6 +117,9 @@
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-4" value="R" id="" required> penggunaan kata yang tepat dalam komunikasi tertulis.</td>
                         </tr>
+                        <tr>
+                            <td><br></td>
+                        </tr>
                     </span>
                     <span class="no-5">
                         <tr>
@@ -126,6 +141,9 @@
                         <tr>
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-5" value="R" id="" required> membaca buku, artikel dan diktat.</td>
+                        </tr>
+                        <tr>
+                            <td><br></td>
                         </tr>
                     </span>
                     <span class="no-6">
@@ -151,6 +169,9 @@
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-6" value="A" id="" required> bicara dengan ahli keuangan mengenai cara-cara berhemat yang bisa ditempuh. </td>
                         </tr>
+                        <tr>
+                            <td><br></td>
+                        </tr>
                     </span>
                     <span class="no-7">
                         <tr>
@@ -174,6 +195,9 @@
                         <tr>
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-7" value="R" id="" required>  membaca petunjuk tertulis pada permainan itu.</td>
+                        </tr>
+                        <tr>
+                            <td><br></td>
                         </tr>
                     </span>
                     <span class="no-8">
@@ -199,6 +223,9 @@
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-8" value="V" id="" required> menunjukkan diagram mengenai masalah yang saya hadapi. </td>
                         </tr>
+                        <tr>
+                            <td><br></td>
+                        </tr>
                     </span>
                     <span class="no-9">
                         <tr>
@@ -222,6 +249,9 @@
                         <tr>
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-9" value="V" id="" required> mengikuti diagram pada buku petunjuknya.</td>
+                        </tr>
+                        <tr>
+                            <td><br></td>
                         </tr>
                     </span>
                     <span class="no-10">
@@ -247,6 +277,9 @@
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-10" value="A" id="" required> situs dengan suara, siaran internet atau wawancara. </td>
                         </tr>
+                        <tr>
+                            <td><br></td>
+                        </tr>
                     </span>
                     <span class="no-11">
                         <tr>
@@ -270,6 +303,9 @@
                         <tr>
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-11" value="K" id="" required>  contoh-contoh proyek serupa yang sudah berhasil.</td>
+                        </tr>
+                        <tr>
+                            <td><br></td>
                         </tr>
                     </span>
                     <span class="no-12">
@@ -295,6 +331,9 @@
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-12" value="K" id="" required> melihat contoh hasil yang baik dan yang jelek dari kamera itu. </td>
                         </tr>
+                        <tr>
+                            <td><br></td>
+                        </tr>
                     </span>
                     <span class="no-13">
                         <tr>
@@ -318,6 +357,9 @@
                         <tr>
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-13" value="V" id="" required> diagram, bagan, peta atau grafik. </td>
+                        </tr>
+                        <tr>
+                            <td><br></td>
                         </tr>
                     </span>
                     <span class="no-14">
@@ -343,6 +385,9 @@
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-14" value="V" id="" required> umpan balik dalam bentuk grafik mengenai hasil pekerjaan saya.</td>
                         </tr>
+                        <tr>
+                            <td><br></td>
+                        </tr>
                     </span>
                     <span class="no-15">
                         <tr>
@@ -367,6 +412,9 @@
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-15" value="V" id="" required> denah ruangan dan peta area sekitarnya. </td>
                         </tr>
+                        <tr>
+                            <td><br></td>
+                        </tr>
                     </span>
                     <span class="no-16">
                         <tr>
@@ -390,6 +438,9 @@
                         <tr>
                             <td></td>
                             <td>D. <input type="radio" name="pil-soal-16" value="K" id="" required>  menonton video orang merakit meja yang serupa. </td>
+                        </tr>
+                        <tr>
+                            <td><br></td>
                         </tr>
                     </span>
                     <span class="tombol submit">
