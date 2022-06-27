@@ -75,7 +75,6 @@
             <h1>Strategi belajar bagi tipe visual</h1>
             <div class="content">
                 <p>Jika anda tergolong tipe <strong>Visual</strong>, sebaiknya anda mengikuti tips-tips di bawah ini</p>
-                <h3>Penerimaan</h3>
                 <h5>cara mudah menerima informasi</h5>
                 <ul>
                     <li>menggarisbawahi, memakai beragam warna, menandai dengan spidol</li>
@@ -85,7 +84,7 @@
                     <li>memakai grafik</li>
                     <li>ruang kosong (di kertas atau di layar)</li>
                 </ul>
-                <h3>Belajar Tidak Pakai Susah &#8211; (TIPS)</h3>
+                <h5>Belajar Tidak Pakai Susah &#8211; (TIPS)</h5>
                 <ul>
                     <li>gunakan semua teknik di atas</li>
                     <li>gambar ulang dengan cara sendiri &#8211; mencoba-coba berbagai variasi pengaturan ruang</li>
@@ -94,7 +93,6 @@
                     <li>amati dengan seksama halaman catatan yang dibuat</li>
                     <li>rangkum &#8220;catatan&#8221; anda menjadi paket yang lebih kecil, misalnya dari 3 halaman tulisan menjadi 1 halaman gambar</li>
                 </ul>
-                <h3>Luaran</h3>
                 <h5>cara sukses menghadapi ujian</h5>
                 <ul>
                     <li>banyak-banyak menggambar dan membuat diagram</li>
@@ -111,7 +109,6 @@
             <h1>Strategi belajar bagi tipe aural/ auditorik</h1>
             <div class="content">
                 <p>Jika anda tergolong tipe <strong>Aural</strong> (A = pengucap &amp; pendengar), sebaiknya anda mengikuti tips-tips di bawah ini</p>
-                <h3>Penerimaan</h3>
                 <h5>cara mudah menerima informasi</h5>
                 <ul>
                     <li>hadir dalam kelas</li>
@@ -124,7 +121,7 @@
                     <li>menjelaskan tampilan di layar atau di papan tulis kepada orang yang tidak melihat langsung tampilan itu</li>
                     <li>hilangkan sedikit informasi di catatan anda supaya memicu anda untuk mengingat-ingat</li>
                 </ul>
-                <h3>Belajar Tidak Pakai Susah &#8211; (TIPS)</h3>
+                <h5>Belajar Tidak Pakai Susah &#8211; (TIPS)</h5>
                 <ul>
                     <li>Tidak perlu sedih kalau catatan anda jelek karena anda lebih suka mendengar. Anda perlu mengembangkan catatan anda dengan bicara ke orang lain dan mengumpulkan informasi dari buku ajar.</li>
                     <li>Rekam rangkuman catatan anda dan dengarkan rekaman tersebut<br />Minta teman anda mendengar penjelasan anda mengenai materi yang anda pelajari</li>
@@ -132,7 +129,6 @@
                     <li>Sampaikan catatan anda ke sesama tipe aural/ auditorik</li>
                     <li>Rangkum catatan anda menjadi paket kecil sampai kira-kira sepertiganya saja</li>
                 </ul>
-                <h3>Luaran</h3>
                 <h5>cara sukses menghadapi ujian</h5>
                 <ul>
                     <li>bayangkan anda bicara di depan penguji, khususnya pada ujian lisan</li>
@@ -149,7 +145,6 @@
             <h1>Strategi belajar bagi tipe pembaca/ penulis teks</h1>
             <div class="content">
                 <p>Jika anda tergolong tipe <strong>Pembaca dan Penulis, (R)</strong>, sebaiknya anda mengikuti tips-tips di bawah ini</p>
-                <h3>Penerimaan</h3>
                 <h5>cara mudah menerima informasi</h5>
                 <ul>
                     <li>membaca daftar</li>
@@ -164,7 +159,7 @@
                     <li>mendengar pembicara yang fasih memakai kata-kata dan kalimat yang penuh dengan informasi<br />membaca esai/ uraian</li>
                     <li>membaca petunjuk kerja (dalam hal komputer atau di laboratorium)</li>
                 </ul>
-                <h3>Belajar Tidak Pakai Susah &#8211; (TIPS)</h3>
+                <h5>Belajar Tidak Pakai Susah &#8211; (TIPS)</h5>
                 <ul>
                     <li>Tulis kata dan kalimat berulang-ulang</li>
                     <li>Ucapkan catatan anda berulang-ulang dalam hati</li>
@@ -174,7 +169,6 @@
                     <li>Bayangkan daftar yang anda buat berubah menjadi pilihan-pilihan jawaban pada soal dan nyatakan perbedaan masing-masing pilihan tersebut</li>
                     <li>Rangkum catatan anda menjadi paket kecil sampai kira-kira sepertiganya saja</li>
                 </ul>
-                <h3>Luaran</h3>
                 <h5>cara sukses menghadapi ujian</h5>
                 <ul>
                     <li>Tulis jawaban ujian dari soal lama atau soal kisi-kisi</li>
@@ -192,7 +186,6 @@
             <h1>Strategi belajar bagi tipe kinestetik</h1>
             <div class="content">
                 <p>Jika anda tergolong tipe <strong>Kinestetik</strong>, sebaiknya anda mengikuti tips-tips di bawah ini</p>
-                <h3>Penerimaan</h3>
                 <h5>cara mudah menerima informasi</h5>
                 <ul>
                     <li>menggunakan semua indera &#8211; melihat, menyentuh, mengecap, menghirup, mendengar…</li>
@@ -208,7 +201,7 @@
                     <li>menghadiri pameran, percontohan, dan mengambil foto</li>
                     <li>mengikuti prosedur atau resep &#8211; menggunakan jalan keluar atau jawaban dari soal/ permasalahan sebelumnya</li>
                 </ul>
-                <h3>Belajar Tidak Pakai Susah &#8211; (TIPS)</h3>
+                <h5>Belajar Tidak Pakai Susah &#8211; (TIPS)</h5>
                 <ul>
                     <li>Tidak perlu sedih kalau catatan anda jelek, khususnya pada topik yang anda anggap kurang nyata atau kurang relevan</li>
                     <li>Anda lebih mudah mengingat peristiwa yang betul-betul terjadi</li>
@@ -219,7 +212,6 @@
                     <li>Ingat-ingat praktikum, belajar lapangan, dan kegiatan serupa yang sudah diikuti</li>
                     <li>Rangkum catatan anda menjadi paket kecil sampai kira-kira sepertiganya saja</li>
                 </ul>
-                <h3>Luaran</h3>
                 <h5>cara sukses menghadapi ujian</h5>
                 <ul>
                     <li>Tulis jawaban dari soal-soal ujian lama atau kisi-kisi soal</li>
