@@ -168,62 +168,62 @@
             $gayaBelajar = "Visual";
             $SB = $SV;
         }
-        if($A>$V AND $A>$R AND $A>$K){
+        else if($A>$V AND $A>$R AND $A>$K){
             $gayaBelajar = "Aural";
             $SB = $SA;
         }
-        if($R>$V AND $R>$A AND $R>$K){
+        else if($R>$V AND $R>$A AND $R>$K){
             $gayaBelajar = "Read/Write";
             $SB = $SR;
         }
-        if($K>$V AND $K>$A AND $K>$R){
+        else if($K>$V AND $K>$A AND $K>$R){
             $gayaBelajar = "Kinestetik";
             $SB = $SK;
         }
         // kondisi jika ada dua nilai yang sama
-        if($V==$A){
+        else if($V==$A){
             $gayaBelajar = "Visual dan Aural";
             $SB = "$SV $SA";
         }
-        if($V==$R){
+        else if($V==$R){
             $gayaBelajar = "Visual dan Read/Write";
             $SB = "$SV $SR";
         }
-        if($V==$K){
+        else if($V==$K){
             $gayaBelajar = "Visual dan Kinesthetik";
             $SB = "$SV $SK";
         }
-        if($A==$R){
+        else if($A==$R){
             $gayaBelajar = "Aural dan Read/Write";
             $SB = "$SA $SR";
         }
-        if($A==$K){
+        else if($A==$K){
             $gayaBelajar = "Aural dan Kinesthetik";
             $SB = "$SA $SK";
         }
-        if($R==$K){
+        else if($R==$K){
             $gayaBelajar = "Read/Write dan Kinestetik";
             $SB = "$SR $SK";
         }
         // kondisi jika ada 3 nilai yang sama
-        if($V==$A&&$V==$R){
+        else if($V==$A&&$V==$R){
             $gayaBelajar = "Vark, Aural dan Read/Write";
             $SB = "$SV $SA $SR";
         }
-        if($V==$A&&$V==$K){
+        else if($V==$A&&$V==$K){
             $gayaBelajar = "Vark, Aural dan Kinestetik";
             $SB = "$SV $SA $SK";
         }
-        if($V==$R&&$V==$K){
+        else if($V==$R&&$V==$K){
             $gayaBelajar = "Vark, Read/Write dan Kinestetik";
             $SB = "$SV $SR $SK";
         }
-        if($V==$K&&$V==$R){
+        else if($V==$K&&$V==$R){
             $gayaBelajar = "Vark, Kinestetik dan Read/Write";
             $SB = "$SV $SK $SR";
         }
         // kondisi jika 4 nilai yang sama
-        if($V==$A&&$V==$R&&$V==$K){
+        else if($V==$A&&$V==$R&&$V==$K){
             $gayaBelajar = "Vark, Aural, Read/Write, dan Kinestetik";
             $SB = "$SV $SA $SR $SK";
         }
