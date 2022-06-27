@@ -163,6 +163,7 @@
                 $K = $K + 6.25;
             }
         }
+
         // kondisi jika semua nilai berbeda
         if($V>$A AND $V>$R AND $V>$K){
             $gayaBelajar = "Visual";
@@ -180,6 +181,13 @@
             $gayaBelajar = "Kinestetik";
             $SB = $SK;
         }
+
+        // kondisi jika 4 nilai yang sama
+        else if($V==$A&&$V==$R&&$V==$K){
+            $gayaBelajar = "Vark, Aural, Read/Write, dan Kinestetik";
+            $SB = "$SV $SA $SR $SK";
+        }
+
         // kondisi jika ada dua nilai yang sama
         else if($V==$A){
             $gayaBelajar = "Visual dan Aural";
@@ -204,28 +212,6 @@
         else if($R==$K){
             $gayaBelajar = "Read/Write dan Kinestetik";
             $SB = "$SR $SK";
-        }
-        // kondisi jika ada 3 nilai yang sama
-        else if($V==$A&&$V==$R){
-            $gayaBelajar = "Vark, Aural dan Read/Write";
-            $SB = "$SV $SA $SR";
-        }
-        else if($V==$A&&$V==$K){
-            $gayaBelajar = "Vark, Aural dan Kinestetik";
-            $SB = "$SV $SA $SK";
-        }
-        else if($V==$R&&$V==$K){
-            $gayaBelajar = "Vark, Read/Write dan Kinestetik";
-            $SB = "$SV $SR $SK";
-        }
-        else if($V==$K&&$V==$R){
-            $gayaBelajar = "Vark, Kinestetik dan Read/Write";
-            $SB = "$SV $SK $SR";
-        }
-        // kondisi jika 4 nilai yang sama
-        else if($V==$A&&$V==$R&&$V==$K){
-            $gayaBelajar = "Vark, Aural, Read/Write, dan Kinestetik";
-            $SB = "$SV $SA $SR $SK";
         }
     }
 ?>
