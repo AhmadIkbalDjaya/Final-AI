@@ -2,4 +2,4 @@
 Dibuat sebagai tugas final mata kuliah kecerdasan buatan.
 
 
-![POSTER GAYA BELAJAR A_5](https://user-images.githubusercontent.com/100517067/181680752-0662cfde-e2e0-49e0-8313-08c98581c250.png)
+![Tes Gaya Belajar](https://user-images.githubusercontent.com/100517067/181681070-1773fdd4-6e36-448f-9cb4-0685dd4d7e15.png)
